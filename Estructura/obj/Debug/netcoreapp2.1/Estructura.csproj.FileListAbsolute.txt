@@ -1,0 +1,11 @@
+C:\Users\miria\source\repos\Estructura\Estructura\obj\Debug\netcoreapp2.1\Estructura.csprojAssemblyReference.cache
+C:\Users\miria\source\repos\Estructura\Estructura\obj\Debug\netcoreapp2.1\Estructura.csproj.CoreCompileInputs.cache
+C:\Users\miria\source\repos\Estructura\Estructura\obj\Debug\netcoreapp2.1\Estructura.AssemblyInfoInputs.cache
+C:\Users\miria\source\repos\Estructura\Estructura\obj\Debug\netcoreapp2.1\Estructura.AssemblyInfo.cs
+C:\Users\miria\source\repos\Estructura\Estructura\bin\Debug\netcoreapp2.1\Estructura.deps.json
+C:\Users\miria\source\repos\Estructura\Estructura\bin\Debug\netcoreapp2.1\Estructura.runtimeconfig.json
+C:\Users\miria\source\repos\Estructura\Estructura\bin\Debug\netcoreapp2.1\Estructura.runtimeconfig.dev.json
+C:\Users\miria\source\repos\Estructura\Estructura\bin\Debug\netcoreapp2.1\Estructura.dll
+C:\Users\miria\source\repos\Estructura\Estructura\bin\Debug\netcoreapp2.1\Estructura.pdb
+C:\Users\miria\source\repos\Estructura\Estructura\obj\Debug\netcoreapp2.1\Estructura.dll
+C:\Users\miria\source\repos\Estructura\Estructura\obj\Debug\netcoreapp2.1\Estructura.pdb
